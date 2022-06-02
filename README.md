@@ -1,4 +1,4 @@
-## Welcome to Lab 3
+## Welcome to CIT 281 Lab 3
 
 ### Overview
 
